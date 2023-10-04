@@ -35,6 +35,8 @@ No additional setup is required.
 
 
 ## Video Record
+- [demo](https://www.loom.com/share/70c503f7f99747e19f2e2c4ed66856ae?sid=6e653c31-87a4-4e35-a840-0f097a2fa91b)
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
